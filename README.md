@@ -4,6 +4,7 @@
 
 ### Branch Details
 master - original bot
+
 polybot - My modifications including switching chains and improved profit iterations
 
 ### History
