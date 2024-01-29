@@ -1,0 +1,5440 @@
+pisarzp@Holly:/mnt/c/pr0/poly-bot$ node bot.js
+Running on Live Net
+Listening on 5000
+
+qPair Address: 0x5cA6CA6c3709E1E6CFe74a50Cf6B2B6BA2Dadd67
+sPair Address: 0x74D23F21F780CA26B47Db16B0504F2e3832b9321
+
+QuickSwap Rate  |       0.00615 WETH / 1 LINK
+SushiSwap Rate  |       0.00612 WETH / 1 LINK
+
+Waiting for swap event...
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49278655
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.75763
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.35%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19850.2877
+WETH: 121.962259294956340871
+
+reserves[0]:    19850287699725808168866
+input:          198502876997258081689 string
+The losses using 198.502876997258081689 LINK in getAmountsIn are -0.03835960759679692 WETH
+
+It should only require  1215324214996358685
+But it is costing       1253683822593155603
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.253683822593155603
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203960241562338206
+
+amountIn:  1.2536838225931557
+amountOut: 1.2039602415623383
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.04972358103081742   │
+│   WETH Gained/Lost   │  -0.04972358103081742   │
+│  Total Gained/Lost   │  -0.07372358103081741   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49278806
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.85026
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.30%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19855.9443
+WETH: 121.927618939566767171
+
+reserves[0]:    19855944253152952166306
+input:          198559442531529521663 string
+The losses using 198.559442531529521663 LINK in getAmountsIn are -0.038380711982193595 WETH
+
+It should only require  1215670534730229529
+But it is costing       1254051246712423124
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.254051246712423124
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203618286510966334
+
+amountIn:  1.2540512467124232
+amountOut: 1.2036182865109664
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05043296020145682   │
+│   WETH Gained/Lost   │  -0.05043296020145682   │
+│  Total Gained/Lost   │  -0.07443296020145682   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49278841
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.91428
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.26%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19859.8527
+WETH: 121.903695625387114654
+
+reserves[0]:    19859852660837229071778
+input:          198598526608372290718 string
+The losses using 198.598526608372290718 LINK in getAmountsIn are -0.038395297585006635 WETH
+
+It should only require  1215909825090784111
+But it is costing       1254305122675790746
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.254305122675790746
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203382125592947843
+
+amountIn:  1.2543051226757906
+amountOut: 1.2033821255929478
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05092299708284287   │
+│   WETH Gained/Lost   │  -0.05092299708284287   │
+│  Total Gained/Lost   │  -0.07492299708284286   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49278846
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.97956
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.22%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19863.8370
+WETH: 121.879316908015890633
+
+reserves[0]:    19863837049584300650914
+input:          198638370495843006509 string
+The losses using 198.638370495843006509 LINK in getAmountsIn are -0.038410169667665126 WETH
+
+It should only require  1216153767354973157
+But it is costing       1254563937022638284
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.254563937022638284
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203141469125734853
+
+amountIn:  1.2545639370226382
+amountOut: 1.203141469125735
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │   -0.0514224678969033   │
+│   WETH Gained/Lost   │   -0.0514224678969033   │
+│  Total Gained/Lost   │   -0.0754224678969033   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49278913
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.05821
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.17%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19868.6370
+WETH: 121.849960788606818049
+
+reserves[0]:    19868637049584300650914
+input:          198686370495843006509 string
+The losses using 198.686370495843006509 LINK in getAmountsIn are -0.03842809001947697 WETH
+
+It should only require  1216447645021646125
+But it is costing       1254875735041123090
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25487573504112309
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.202851677834400997
+
+amountIn:  1.254875735041123
+amountOut: 1.202851677834401
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.052024057206722096  │
+│   WETH Gained/Lost   │  -0.052024057206722096  │
+│  Total Gained/Lost   │  -0.07602405720672209   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49279230
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.19240
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19876.8229
+WETH: 121.799929972063445529
+
+reserves[0]:    19876822893707084980642
+input:          198768228937070849806 string
+The losses using 198.768228937070849806 LINK in getAmountsIn are -0.03845866100750785 WETH
+
+It should only require  1216948819348844558
+But it is costing       1255407480356352408
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.255407480356352408
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.202357794609218642
+
+amountIn:  1.2554074803563524
+amountOut: 1.2023577946092185
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05304968574713387   │
+│   WETH Gained/Lost   │  -0.05304968574713387   │
+│  Total Gained/Lost   │  -0.07704968574713386   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49279848
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.37427
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49280117
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.50883
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: 0.11%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7171.2029
+WETH: 43.905341163933716294
+
+reserves[0]:    7171202901287619843135
+input:          71712029012876198431 string
+The losses using 71.712029012876198431 LINK in getAmountsIn are -0.000731079897745097 WETH
+
+It should only require  440761892189189003
+But it is costing       441492972086934100
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.4414929720869341
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.433415102829211908
+
+amountIn:  0.4414929720869341
+amountOut: 0.4334151028292119
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008077869257722192  │
+│   WETH Gained/Lost   │  -0.008077869257722192  │
+│  Total Gained/Lost   │  -0.032077869257722186  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49280574
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.38810
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49282717
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.34419
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283229
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.29781
+SUSHISWAP | LINK/WETH    | 163.33327
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49283235
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.29781
+SUSHISWAP | LINK/WETH    | 163.24837
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283236
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.24601
+SUSHISWAP | LINK/WETH    | 163.24837
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283259
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.16765
+SUSHISWAP | LINK/WETH    | 163.24837
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19875.3755
+WETH: 121.809536263736650638
+
+reserves[0]:    19875375528477824830202
+input:          198753755284778248302 string
+The losses using 198.753755284778248302 LINK in getAmountsIn are -0.03911536219194113 WETH
+
+It should only require  1216860205116261525
+But it is costing       1255975567308202652
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.255975567308202652
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.202452623889278302
+
+amountIn:  1.2559755673082027
+amountOut: 1.2024526238892783
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053522943418924385  │
+│   WETH Gained/Lost   │  -0.053522943418924385  │
+│  Total Gained/Lost   │  -0.07752294341892438   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49283264
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.16765
+SUSHISWAP | LINK/WETH    | 163.11616
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283267
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.08003
+SUSHISWAP | LINK/WETH    | 163.11616
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49283268
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.08003
+SUSHISWAP | LINK/WETH    | 162.98678
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7163.6039
+WETH: 43.952055432631462874
+
+reserves[0]:    7163603865933345986109
+input:          71636038659333459861 string
+The losses using 71.636038659333459861 LINK in getAmountsIn are -0.001890335685698501 WETH
+
+It should only require  440294834535449922
+But it is costing       442185170221148423
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442185170221148423
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.433876246485871545
+
+amountIn:  0.44218517022114845
+amountOut: 0.43387624648587153
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008308923735276919  │
+│   WETH Gained/Lost   │  -0.008308923735276919  │
+│  Total Gained/Lost   │  -0.03230892373527691   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283270
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.99527
+SUSHISWAP | LINK/WETH    | 162.98678
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283711
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.88391
+SUSHISWAP | LINK/WETH    | 162.98678
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19858.1127
+WETH: 121.91574506632124587
+
+reserves[0]:    19858112699157024785040
+input:          198581126991570247850 string
+The losses using 198.58112699157024785 LINK in getAmountsIn are -0.041093050069251714 WETH
+
+It should only require  1215803296782726025
+But it is costing       1256896346851977740
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25689634685197774
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203501072617229047
+
+amountIn:  1.2568963468519778
+amountOut: 1.203501072617229
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05339527423474877   │
+│   WETH Gained/Lost   │  -0.05339527423474877   │
+│  Total Gained/Lost   │  -0.07739527423474876   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49283714
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.88391
+SUSHISWAP | LINK/WETH    | 162.83294
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283723
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.82926
+SUSHISWAP | LINK/WETH    | 162.83294
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283736
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.72734
+SUSHISWAP | LINK/WETH    | 162.83294
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19848.5808
+WETH: 121.974468825592961367
+
+reserves[0]:    19848580819988533703162
+input:          198485808199885337032 string
+The losses using 198.485808199885337032 LINK in getAmountsIn are -0.04225991503753251 WETH
+
+It should only require  1215219712114175021
+But it is costing       1257479627151707527
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.257479627151707527
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.204080768924979776
+
+amountIn:  1.2574796271517075
+amountOut: 1.2040807689249797
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05339885822672774   │
+│   WETH Gained/Lost   │  -0.05339885822672774   │
+│  Total Gained/Lost   │  -0.07739885822672773   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49283745
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.54241
+SUSHISWAP | LINK/WETH    | 162.64680
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19837.3163
+WETH: 122.043939593060258239
+
+reserves[0]:    19837316337651157237657
+input:          198373163376511572377 string
+The losses using 198.373163376511572377 LINK in getAmountsIn are -0.04367437127725443 WETH
+
+It should only require  1214530049658844386
+But it is costing       1258204420936098816
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258204420936098816
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.204766555187590497
+
+amountIn:  1.2582044209360987
+amountOut: 1.2047665551875906
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05343786574850817   │
+│   WETH Gained/Lost   │  -0.05343786574850817   │
+│  Total Gained/Lost   │  -0.07743786574850817   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49283753
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.54241
+SUSHISWAP | LINK/WETH    | 162.48905
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49284307
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.53204
+SUSHISWAP | LINK/WETH    | 162.48905
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49284367
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.51615
+SUSHISWAP | LINK/WETH    | 162.48905
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49285359
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.66613
+SUSHISWAP | LINK/WETH    | 162.48905
+
+Percentage Difference: 0.11%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7152.6739
+WETH: 44.01942047898681653
+
+reserves[0]:    7152673911662817256127
+input:          71526739116628172561 string
+The losses using 71.526739116628172561 LINK in getAmountsIn are -0.003010469577686699 WETH
+
+It should only require  439623049426015276
+But it is costing       442633519003701975
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442633519003701975
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.434541245953343723
+
+amountIn:  0.44263351900370196
+amountOut: 0.4345412459533437
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008092273050358256  │
+│   WETH Gained/Lost   │  -0.008092273050358256  │
+│  Total Gained/Lost   │  -0.03209227305035825   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49285360
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.66613
+SUSHISWAP | LINK/WETH    | 162.63066
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49285393
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.72570
+SUSHISWAP | LINK/WETH    | 162.72506
+
+Percentage Difference: 0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49285648
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.77874
+SUSHISWAP | LINK/WETH    | 162.72506
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49285827
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.65964
+SUSHISWAP | LINK/WETH    | 162.72506
+
+Percentage Difference: -0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49286312
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.65964
+SUSHISWAP | LINK/WETH    | 162.60144
+
+Percentage Difference: 0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286337
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.56762
+SUSHISWAP | LINK/WETH    | 162.60144
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286531
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.41853
+SUSHISWAP | LINK/WETH    | 162.60144
+
+Percentage Difference: -0.11%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19829.8151
+WETH: 122.090838556119812006
+
+reserves[0]:    19829815075640572052924
+input:          198298150756405720529 string
+The losses using 198.298150756405720529 LINK in getAmountsIn are -0.044000012735007955 WETH
+
+It should only require  1214070788538683272
+But it is costing       1258070801273691224
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258070801273691224
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205229522069481792
+
+amountIn:  1.2580708012736912
+amountOut: 1.2052295220694818
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.052841279204209446  │
+│   WETH Gained/Lost   │  -0.052841279204209446  │
+│  Total Gained/Lost   │  -0.07684127920420944   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286667
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.26965
+SUSHISWAP | LINK/WETH    | 162.27088
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286762
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.12096
+SUSHISWAP | LINK/WETH    | 162.27088
+
+Percentage Difference: -0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19811.6685
+WETH: 122.20300465612000268
+
+reserves[0]:    19811668509536457952945
+input:          198116685095364579529 string
+The losses using 198.116685095364579529 LINK in getAmountsIn are -0.04652384673852059 WETH
+
+It should only require  1212959773850182479
+But it is costing       1259483620588703071
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.259483620588703071
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.206336778737503516
+
+amountIn:  1.259483620588703
+amountOut: 1.2063367787375034
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053146841851199556  │
+│   WETH Gained/Lost   │  -0.053146841851199556  │
+│  Total Gained/Lost   │  -0.07714684185119955   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49286765
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.12096
+SUSHISWAP | LINK/WETH    | 161.95466
+
+Percentage Difference: 0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7140.9357
+WETH: 44.092189351113745592
+
+reserves[0]:    7140935732848903919114
+input:          71409357328489039191 string
+The losses using 71.409357328489039191 LINK in getAmountsIn are -0.004491583028781487 WETH
+
+It should only require  438901588608898175
+But it is costing       443393171637679662
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443393171637679662
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435259589721084827
+
+amountIn:  0.44339317163767966
+amountOut: 0.4352595897210848
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008133581916594856  │
+│   WETH Gained/Lost   │  -0.008133581916594856  │
+│  Total Gained/Lost   │  -0.03213358191659485   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286766
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.98856
+SUSHISWAP | LINK/WETH    | 161.95466
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286768
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.08760
+SUSHISWAP | LINK/WETH    | 161.95466
+
+Percentage Difference: 0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7140.9357
+WETH: 44.092189351113745592
+
+reserves[0]:    7140935732848903919114
+input:          71409357328489039191 string
+The losses using 71.409357328489039191 LINK in getAmountsIn are -0.004582989950694452 WETH
+
+It should only require  438901588608898175
+But it is costing       443484578559592627
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443484578559592627
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435259589721084827
+
+amountIn:  0.4434845785595926
+amountOut: 0.4352595897210848
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008224988838507807  │
+│   WETH Gained/Lost   │  -0.008224988838507807  │
+│  Total Gained/Lost   │   -0.0322249888385078   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286792
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.87996
+SUSHISWAP | LINK/WETH    | 161.95466
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19797.0201
+WETH: 122.294449055435240148
+
+reserves[0]:    19797020059537134491226
+input:          197970200595371344912 string
+The losses using 197.970200595371344912 LINK in getAmountsIn are -0.04895516782221543 WETH
+
+It should only require  1212062929619728978
+But it is costing       1261018097441944407
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.261018097441944407
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207239479472350014
+
+amountIn:  1.2610180974419445
+amountOut: 1.20723947947235
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05377861796959449   │
+│   WETH Gained/Lost   │  -0.05377861796959449   │
+│  Total Gained/Lost   │  -0.07777861796959448   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286804
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.73188
+SUSHISWAP | LINK/WETH    | 161.70824
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49286986
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.62839
+SUSHISWAP | LINK/WETH    | 161.70824
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19781.6545
+WETH: 122.389728118161895703
+
+reserves[0]:    19781654504361800355647
+input:          197816545043618003556 string
+The losses using 197.816545043618003556 LINK in getAmountsIn are -0.05083673350480608 WETH
+
+It should only require  1211122180973466075
+But it is costing       1261958914478272159
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.261958914478272159
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.20818003439515441
+
+amountIn:  1.2619589144782721
+amountOut: 1.2081800343951543
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05377888008311782   │
+│   WETH Gained/Lost   │  -0.05377888008311782   │
+│  Total Gained/Lost   │  -0.07777888008311781   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49287081
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.62839
+SUSHISWAP | LINK/WETH    | 161.57109
+
+Percentage Difference: 0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287083
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.44885
+SUSHISWAP | LINK/WETH    | 161.57109
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19770.6811
+WETH: 122.457862871024221047
+
+reserves[0]:    19770681122188200312324
+input:          197706811221882003123 string
+The losses using 197.706811221882003123 LINK in getAmountsIn are -0.05187441224530028 WETH
+
+It should only require  1210450340984156010
+But it is costing       1262324753229456291
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.262324753229456291
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.208852632082251437
+
+amountIn:  1.2623247532294564
+amountOut: 1.2088526320822515
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │   -0.0534721211472049   │
+│   WETH Gained/Lost   │   -0.0534721211472049   │
+│  Total Gained/Lost   │  -0.07747212114720489   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287105
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.11904
+SUSHISWAP | LINK/WETH    | 161.11877
+
+Percentage Difference: 0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287108
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.98786
+SUSHISWAP | LINK/WETH    | 161.11877
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19742.4776
+WETH: 122.633328812059781495
+
+reserves[0]:    19742477649427856053690
+input:          197424776494278560537 string
+The losses using 197.424776494278560537 LINK in getAmountsIn are -0.05533819336346432 WETH
+
+It should only require  1208723597074388393
+But it is costing       1264061790437852717
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.264061790437852717
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.210584758216814382
+
+amountIn:  1.2640617904378528
+amountOut: 1.2105847582168143
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │   -0.0534770322210385   │
+│   WETH Gained/Lost   │   -0.0534770322210385   │
+│  Total Gained/Lost   │   -0.0774770322210385   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49287247
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.98786
+SUSHISWAP | LINK/WETH    | 160.91861
+
+Percentage Difference: 0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287250
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.87265
+SUSHISWAP | LINK/WETH    | 160.91861
+
+Percentage Difference: -0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287262
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.69657
+SUSHISWAP | LINK/WETH    | 160.75173
+
+Percentage Difference: -0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287313
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.56592
+SUSHISWAP | LINK/WETH    | 160.57231
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287350
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.48084
+SUSHISWAP | LINK/WETH    | 160.57231
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19711.4106
+WETH: 122.827192260089816519
+
+reserves[0]:    19711410634595055164237
+input:          197114106345950551642 string
+The losses using 197.114106345950551642 LINK in getAmountsIn are -0.05955056026391354 WETH
+
+It should only require  1206821534193230479
+But it is costing       1266372094457144015
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.266372094457144015
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.212498496819802044
+
+amountIn:  1.266372094457144
+amountOut: 1.212498496819802
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │   -0.0538735976373419   │
+│   WETH Gained/Lost   │   -0.0538735976373419   │
+│  Total Gained/Lost   │  -0.07787359763734189   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287361
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.30048
+SUSHISWAP | LINK/WETH    | 160.30044
+
+Percentage Difference: 0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287364
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.11434
+SUSHISWAP | LINK/WETH    | 160.30044
+
+Percentage Difference: -0.12%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19688.9240
+WETH: 122.967895136315142471
+
+reserves[0]:    19688923960882214384110
+input:          196889239608822143841 string
+The losses using 196.889239608822143841 LINK in getAmountsIn are -0.061617262776632716 WETH
+
+It should only require  1205444798526154230
+But it is costing       1267062061302786948
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.267062061302786948
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.213887456567088102
+
+amountIn:  1.267062061302787
+amountOut: 1.213887456567088
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053174604735698905  │
+│   WETH Gained/Lost   │  -0.053174604735698905  │
+│  Total Gained/Lost   │   -0.0771746047356989   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49287366
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.11434
+SUSHISWAP | LINK/WETH    | 159.99975
+
+Percentage Difference: 0.07%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7097.7714
+WETH: 44.361139973227921837
+
+reserves[0]:    7097771436833683945468
+input:          70977714368336839455 string
+The losses using 70.977714368336839455 LINK in getAmountsIn are -0.009987866981485774 WETH
+
+It should only require  436248592026795251
+But it is costing       446236459008281025
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.446236459008281025
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.437914557395845798
+
+amountIn:  0.446236459008281
+amountOut: 0.4379145573958458
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008321901612435234  │
+│   WETH Gained/Lost   │  -0.008321901612435234  │
+│  Total Gained/Lost   │  -0.03232190161243523   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287367
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 159.94290
+SUSHISWAP | LINK/WETH    | 159.99975
+
+Percentage Difference: -0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287402
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 159.88363
+SUSHISWAP | LINK/WETH    | 159.89008
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287609
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 159.97656
+SUSHISWAP | LINK/WETH    | 159.89008
+
+Percentage Difference: 0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7095.3420
+WETH: 44.376375084037736896
+
+reserves[0]:    7095341967568215415791
+input:          70953419675682154158 string
+The losses using 70.953419675682154158 LINK in getAmountsIn are -0.010368797128058483 WETH
+
+It should only require  436099270150785981
+But it is costing       446468067278844464
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.446468067278844464
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.438064952016254182
+
+amountIn:  0.44646806727884447
+amountOut: 0.43806495201625417
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │   -0.0084031152625903   │
+│   WETH Gained/Lost   │   -0.0084031152625903   │
+│  Total Gained/Lost   │  -0.03240311526259029   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287643
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.12134
+SUSHISWAP | LINK/WETH    | 159.89008
+
+Percentage Difference: 0.14%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7095.3420
+WETH: 44.376375084037736896
+
+reserves[0]:    7095341967568215415791
+input:          70953419675682154158 string
+The losses using 70.953419675682154158 LINK in getAmountsIn are -0.009964371366810883 WETH
+
+It should only require  436099270150785981
+But it is costing       446063641517596865
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.446063641517596865
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.438064952016254182
+
+amountIn:  0.44606364151759686
+amountOut: 0.43708113035372986
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008982511163867002  │
+│   WETH Gained/Lost   │  -0.008982511163867002  │
+│  Total Gained/Lost   │  -0.032982511163866995  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287695
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.33221
+SUSHISWAP | LINK/WETH    | 160.25176
+
+Percentage Difference: 0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7103.3746
+WETH: 44.32634384254973286
+
+reserves[0]:    7103374593482475712495
+input:          71033745934824757125 string
+The losses using 71.033745934824757125 LINK in getAmountsIn are -0.009389091717186127 WETH
+
+It should only require  436592977475198957
+But it is costing       445982069192385084
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.445982069192385084
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.437571064596196754
+
+amountIn:  0.4459820691923851
+amountOut: 0.43757106459619677
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00841100459618832   │
+│   WETH Gained/Lost   │  -0.00841100459618832   │
+│  Total Gained/Lost   │  -0.032411004596188314  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49287745
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.49679
+SUSHISWAP | LINK/WETH    | 160.54046
+
+Percentage Difference: -0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49288040
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.62781
+SUSHISWAP | LINK/WETH    | 160.54046
+
+Percentage Difference: 0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7109.7798
+WETH: 44.28653018966064985
+
+reserves[0]:    7109779752704093415011
+input:          71097797527040934150 string
+The losses using 71.09779752704093415 LINK in getAmountsIn are -0.008576054573284609 WETH
+
+It should only require  436986656211828532
+But it is costing       445562710785113140
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.44556271078511314
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.437178040922915214
+
+amountIn:  0.4455627107851131
+amountOut: 0.43717804092291523
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00838466986219788   │
+│   WETH Gained/Lost   │  -0.00838466986219788   │
+│  Total Gained/Lost   │  -0.03238466986219787   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49288312
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.48034
+SUSHISWAP | LINK/WETH    | 160.54046
+
+Percentage Difference: -0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49288353
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.48034
+SUSHISWAP | LINK/WETH    | 160.49392
+
+Percentage Difference: -0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49288955
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.49299
+SUSHISWAP | LINK/WETH    | 160.49392
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49288994
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.58299
+SUSHISWAP | LINK/WETH    | 160.49392
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7108.7508
+WETH: 44.292959514044730338
+
+reserves[0]:    7108750831461658304266
+input:          71087508314616583043 string
+The losses using 71.087508314616583043 LINK in getAmountsIn are -0.0086991358537299 WETH
+
+It should only require  436923415876842623
+But it is costing       445622551730572523
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.445622551730572523
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.437241508515130114
+
+amountIn:  0.4456225517305725
+amountOut: 0.4372415085151301
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008381043215442419  │
+│   WETH Gained/Lost   │  -0.008381043215442419  │
+│  Total Gained/Lost   │  -0.03238104321544241   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49288996
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.58299
+SUSHISWAP | LINK/WETH    | 160.60189
+
+Percentage Difference: -0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289003
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.72949
+SUSHISWAP | LINK/WETH    | 160.60189
+
+Percentage Difference: 0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7111.1451
+WETH: 44.27809105805893247
+
+reserves[0]:    7111145112445607225610
+input:          71111451124456072256 string
+The losses using 71.111451124456072256 LINK in getAmountsIn are -0.008295564139154303 WETH
+
+It should only require  437070574984100408
+But it is costing       445366139123254711
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.445366139123254711
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.437094733357275519
+
+amountIn:  0.44536613912325473
+amountOut: 0.4370947333572755
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008271405765979234  │
+│   WETH Gained/Lost   │  -0.008271405765979234  │
+│  Total Gained/Lost   │  -0.03227140576597923   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49289012
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.72949
+SUSHISWAP | LINK/WETH    | 160.84584
+
+Percentage Difference: -0.07%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19726.8360
+WETH: 122.733146525285851406
+
+reserves[0]:    19726835952576858701226
+input:          197268359525768587012 string
+The losses using 197.268359525768587012 LINK in getAmountsIn are -0.057439165493802256 WETH
+
+It should only require  1207765941788268185
+But it is costing       1265205107282070439
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.265205107282070439
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.211570116792676949
+
+amountIn:  1.2652051072820705
+amountOut: 1.211570116792677
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053634990489393575  │
+│   WETH Gained/Lost   │  -0.053634990489393575  │
+│  Total Gained/Lost   │  -0.07763499048939357   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289013
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.86081
+SUSHISWAP | LINK/WETH    | 160.84584
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289457
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.85414
+SUSHISWAP | LINK/WETH    | 160.84584
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289864
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.99547
+SUSHISWAP | LINK/WETH    | 160.84584
+
+Percentage Difference: 0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7116.5520
+WETH: 44.24455121116064341
+
+reserves[0]:    7116551979166342559484
+input:          71165519791663425595 string
+The losses using 71.165519791663425595 LINK in getAmountsIn are -0.007565419096610151 WETH
+
+It should only require  437402895912604349
+But it is costing       444968315009214500
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.4449683150092145
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.436763642063894585
+
+amountIn:  0.4449683150092145
+amountOut: 0.43676364206389456
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008204672945319957  │
+│   WETH Gained/Lost   │  -0.008204672945319957  │
+│  Total Gained/Lost   │  -0.03220467294531995   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49289870
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 160.99547
+SUSHISWAP | LINK/WETH    | 161.21071
+
+Percentage Difference: -0.13%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19743.1771
+WETH: 122.631881618864565892
+
+reserves[0]:    19743177141219246939689
+input:          197431771412192469397 string
+The losses using 197.431771412192469397 LINK in getAmountsIn are -0.054609780460871 WETH
+
+It should only require  1208766423119286487
+But it is costing       1263376203580157486
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.263376203580157486
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.210570472132914563
+
+amountIn:  1.2633762035801575
+amountOut: 1.2105704721329145
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05280573144724299   │
+│   WETH Gained/Lost   │  -0.05280573144724299   │
+│  Total Gained/Lost   │  -0.07680573144724298   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289879
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.12711
+SUSHISWAP | LINK/WETH    | 161.21071
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19751.2595
+WETH: 122.581850272068906968
+
+reserves[0]:    19751259495908612791849
+input:          197512594959086127918 string
+The losses using 197.512594959086127918 LINK in getAmountsIn are -0.05464688304613502 WETH
+
+It should only require  1209261261356231101
+But it is costing       1263908144402366120
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.26390814440236612
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.210076583673304159
+
+amountIn:  1.263908144402366
+amountOut: 1.210076583673304
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053831560729062033  │
+│   WETH Gained/Lost   │  -0.053831560729062033  │
+│  Total Gained/Lost   │  -0.07783156072906203   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289897
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.25889
+SUSHISWAP | LINK/WETH    | 161.21071
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49289908
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.25889
+SUSHISWAP | LINK/WETH    | 161.21071
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290057
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.44992
+SUSHISWAP | LINK/WETH    | 161.21071
+
+Percentage Difference: 0.15%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7124.6313
+WETH: 44.194528443230813188
+
+reserves[0]:    7124631278190987777788
+input:          71246312781909877778 string
+The losses using 71.246312781909877778 LINK in getAmountsIn are -0.006319641059747888 WETH
+
+It should only require  437899471894999924
+But it is costing       444219112954747812
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.444219112954747812
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.43626983829124747
+
+amountIn:  0.4442191129547478
+amountOut: 0.4362698382912475
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.007949274663500316  │
+│   WETH Gained/Lost   │  -0.007949274663500316  │
+│  Total Gained/Lost   │  -0.03194927466350031   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49290079
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.44992
+SUSHISWAP | LINK/WETH    | 161.57681
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19771.0644
+WETH: 122.459426642958009852
+
+reserves[0]:    19771064410774407829204
+input:          197710644107744078292 string
+The losses using 197.710644107744078292 LINK in getAmountsIn are -0.05183020349239709 WETH
+
+It should only require  1210473807641526228
+But it is costing       1262304011133923314
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.262304011133923314
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.208868068982535479
+
+amountIn:  1.2623040111339232
+amountOut: 1.2088680689825355
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053435942151387694  │
+│   WETH Gained/Lost   │  -0.053435942151387694  │
+│  Total Gained/Lost   │  -0.07743594215138769   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290114
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.59783
+SUSHISWAP | LINK/WETH    | 161.57681
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290122
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.78125
+SUSHISWAP | LINK/WETH    | 161.57681
+
+Percentage Difference: 0.13%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7132.7287
+WETH: 44.144506735010808815
+
+reserves[0]:    7132728743294106281724
+input:          71327287432941062817 string
+The losses using 71.327287432941062817 LINK in getAmountsIn are -0.005416187721159689 WETH
+
+It should only require  438397164414639216
+But it is costing       443813352135798905
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443813352135798905
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435776044979611041
+
+amountIn:  0.4438133521357989
+amountOut: 0.43577604497961103
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00803730715618789   │
+│   WETH Gained/Lost   │  -0.00803730715618789   │
+│  Total Gained/Lost   │  -0.03203730715618788   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290124
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.44869
+SUSHISWAP | LINK/WETH    | 161.82344
+
+Percentage Difference: -0.23%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19771.0502
+WETH: 122.460269917123017863
+
+reserves[0]:    19771050226200292816375
+input:          197710502262002928164 string
+The losses using 197.710502262002928164 LINK in getAmountsIn are -0.04987893879413083 WETH
+
+It should only require  1210472939197871297
+But it is costing       1260351877992002122
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.260351877992002122
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.20887639343120735
+
+amountIn:  1.2603518779920022
+amountOut: 1.2088763934312075
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05147548456079476   │
+│   WETH Gained/Lost   │  -0.05147548456079476   │
+│  Total Gained/Lost   │  -0.07547548456079475   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290125
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.58983
+SUSHISWAP | LINK/WETH    | 161.82344
+
+Percentage Difference: -0.14%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19779.7033
+WETH: 122.406857866563384465
+
+reserves[0]:    19779703253673357477240
+input:          197797032536733574772 string
+The losses using 197.797032536733574772 LINK in getAmountsIn are -0.0499164893939905 WETH
+
+It should only require  1211002716598588239
+But it is costing       1260919205992578742
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.260919205992578742
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.208349132082771709
+
+amountIn:  1.2609192059925787
+amountOut: 1.2083491320827717
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05257007390980695   │
+│   WETH Gained/Lost   │  -0.05257007390980695   │
+│  Total Gained/Lost   │  -0.07657007390980694   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290127
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.92154
+SUSHISWAP | LINK/WETH    | 161.82344
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7138.1783
+WETH: 44.110905955018422949
+
+reserves[0]:    7138178334574760232677
+input:          71381783345747602327 string
+The losses using 71.381783345747602327 LINK in getAmountsIn are -0.005036029200088637 WETH
+
+It should only require  438732111312332971
+But it is costing       443768140512421608
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443768140512421608
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435444352180296124
+
+amountIn:  0.4437681405124216
+amountOut: 0.43544435218029615
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008323788332125437  │
+│   WETH Gained/Lost   │  -0.008323788332125437  │
+│  Total Gained/Lost   │  -0.03232378833212543   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290295
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.09998
+SUSHISWAP | LINK/WETH    | 162.07078
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49290299
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.29996
+SUSHISWAP | LINK/WETH    | 162.07078
+
+Percentage Difference: 0.14%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7143.6398
+WETH: 44.077283127134281399
+
+reserves[0]:    7143639831024787540159
+input:          71436398310247875402 string
+The losses using 71.436398310247875402 LINK in getAmountsIn are -0.004003757164618669 WETH
+
+It should only require  439067789934543806
+But it is costing       443071547099162475
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443071547099162475
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435112441733446325
+
+amountIn:  0.44307154709916247
+amountOut: 0.4351124417334463
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.007959105365716146  │
+│   WETH Gained/Lost   │  -0.007959105365716146  │
+│  Total Gained/Lost   │  -0.03195910536571614   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49290807
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.29996
+SUSHISWAP | LINK/WETH    | 162.31868
+
+Percentage Difference: -0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49291477
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.29996
+SUSHISWAP | LINK/WETH    | 162.32775
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49291645
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.43320
+SUSHISWAP | LINK/WETH    | 162.32775
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7149.3093
+WETH: 44.042434253193087286
+
+reserves[0]:    7149309293194340867415
+input:          71493092931943408674 string
+The losses using 71.493092931943408674 LINK in getAmountsIn are -0.003643832467861347 WETH
+
+It should only require  439416250702973419
+But it is costing       443060083170834766
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443060083170834766
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.434768428274438924
+
+amountIn:  0.4430600831708348
+amountOut: 0.4347684282744389
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008291654896395884  │
+│   WETH Gained/Lost   │  -0.008291654896395884  │
+│  Total Gained/Lost   │  -0.03229165489639588   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49291651
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.43320
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: -0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19831.3305
+WETH: 122.089148295349203864
+
+reserves[0]:    19831330512809900559457
+input:          198313305128099005595 string
+The losses using 198.313305128099005595 LINK in getAmountsIn are -0.04419988485035188 WETH
+
+It should only require  1214163570442706553
+But it is costing       1258363455293058434
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258363455293058434
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205212836524482472
+
+amountIn:  1.2583634552930585
+amountOut: 1.2052128365244825
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05315061876857596   │
+│   WETH Gained/Lost   │  -0.05315061876857596   │
+│  Total Gained/Lost   │  -0.07715061876857596   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49291652
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.56662
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: -0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49291767
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.71638
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: 0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7154.7963
+WETH: 44.008759636283290879
+
+reserves[0]:    7154796261644272280309
+input:          71547962616442722803 string
+The losses using 71.547962616442722803 LINK in getAmountsIn are -0.002874775409188503 WETH
+
+It should only require  439753494904492233
+But it is costing       442628270313680736
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442628270313680736
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.434436006588061437
+
+amountIn:  0.44262827031368074
+amountOut: 0.4344360065880614
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00819226372561932   │
+│   WETH Gained/Lost   │  -0.00819226372561932   │
+│  Total Gained/Lost   │  -0.03219226372561931   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49292284
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.68484
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: 0.07%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7154.7963
+WETH: 44.008759636283290879
+
+reserves[0]:    7154796261644272280309
+input:          71547962616442722803 string
+The losses using 71.547962616442722803 LINK in getAmountsIn are -0.002960747487190409 WETH
+
+It should only require  439753494904492233
+But it is costing       442714242391682642
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442714242391682642
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.434436006588061437
+
+amountIn:  0.44271424239168267
+amountOut: 0.4344360065880614
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008278235803621248  │
+│   WETH Gained/Lost   │  -0.008278235803621248  │
+│  Total Gained/Lost   │  -0.03227823580362124   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49292393
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.64702
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: 0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49292457
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.49857
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19835.3666
+WETH: 122.064870813760713395
+
+reserves[0]:    19835366567177230508339
+input:          198353665671772305083 string
+The losses using 198.353665671772305083 LINK in getAmountsIn are -0.04421618274821034 WETH
+
+It should only require  1214410675909380754
+But it is costing       1258626858657591096
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258626858657591096
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.204973179414432421
+
+amountIn:  1.258626858657591
+amountOut: 1.2049731794144325
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05365367924315856   │
+│   WETH Gained/Lost   │  -0.05365367924315856   │
+│  Total Gained/Lost   │  -0.07765367924315855   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49292535
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.46892
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: -0.07%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19833.5596
+WETH: 122.076025420923800209
+
+reserves[0]:    19833559561956218451127
+input:          198335595619562184511 string
+The losses using 198.335595619562184511 LINK in getAmountsIn are -0.044208885544310336 WETH
+
+It should only require  1214300042893127235
+But it is costing       1258508928437437569
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258508928437437569
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205083293015248262
+
+amountIn:  1.2585089284374376
+amountOut: 1.2050832930152482
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053425635422189366  │
+│   WETH Gained/Lost   │  -0.053425635422189366  │
+│  Total Gained/Lost   │  -0.07742563542218936   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293260
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.45409
+SUSHISWAP | LINK/WETH    | 162.57664
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19832.6560
+WETH: 122.081604119079778035
+
+reserves[0]:    19832655957176881581162
+input:          198326559571768815812 string
+The losses using 198.326559571768815812 LINK in getAmountsIn are -0.04420523675955873 WETH
+
+It should only require  1214244720129763472
+But it is costing       1258449956889322205
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258449956889322205
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205138363582309758
+
+amountIn:  1.2584499568893222
+amountOut: 1.2051383635823099
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053311593307012295  │
+│   WETH Gained/Lost   │  -0.053311593307012295  │
+│  Total Gained/Lost   │  -0.07731159330701229   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49293288
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.45409
+SUSHISWAP | LINK/WETH    | 162.60348
+
+Percentage Difference: -0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19832.6560
+WETH: 122.081604119079778035
+
+reserves[0]:    19832655957176881581162
+input:          198326559571768815812 string
+The losses using 198.326559571768815812 LINK in getAmountsIn are -0.043994546111166814 WETH
+
+It should only require  1214244720129763472
+But it is costing       1258239266240930287
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258239266240930287
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205138363582309758
+
+amountIn:  1.2582392662409303
+amountOut: 1.2051383635823099
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05310090265862044   │
+│   WETH Gained/Lost   │  -0.05310090265862044   │
+│  Total Gained/Lost   │  -0.07710090265862043   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293505
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.60324
+SUSHISWAP | LINK/WETH    | 162.60348
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293508
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.73686
+SUSHISWAP | LINK/WETH    | 162.60348
+
+Percentage Difference: 0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7155.3877
+WETH: 44.005132799373823897
+
+reserves[0]:    7155387723584947385898
+input:          71553877235849473859 string
+The losses using 71.553877235849473859 LINK in getAmountsIn are -0.00281933841474211 WETH
+
+It should only require  439789847785273649
+But it is costing       442609186200015759
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442609186200015759
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.434400203976115156
+
+amountIn:  0.44260918620001577
+amountOut: 0.4344002039761152
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008208982223900596  │
+│   WETH Gained/Lost   │  -0.008208982223900596  │
+│  Total Gained/Lost   │  -0.03220898222390059   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49293538
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.73686
+SUSHISWAP | LINK/WETH    | 162.70795
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293552
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.92653
+SUSHISWAP | LINK/WETH    | 162.70795
+
+Percentage Difference: 0.13%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7157.6893
+WETH: 43.991025122823691358
+
+reserves[0]:    7157689321336898403669
+input:          71576893213368984037 string
+The losses using 71.576893213368984037 LINK in getAmountsIn are -0.002304398927898708 WETH
+
+It should only require  439931310325683175
+But it is costing       442235709253581883
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442235709253581883
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.434260938913583772
+
+amountIn:  0.4422357092535819
+amountOut: 0.43426093891358375
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00797477033999816   │
+│   WETH Gained/Lost   │  -0.00797477033999816   │
+│  Total Gained/Lost   │  -0.031974770339998154  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49293567
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.92653
+SUSHISWAP | LINK/WETH    | 163.00089
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19861.5166
+WETH: 121.904739972401672327
+
+reserves[0]:    19861516570421672544101
+input:          198615165704216725441 string
+The losses using 198.615165704216725441 LINK in getAmountsIn are -0.04099468542384563 WETH
+
+It should only require  1216011697146248910
+But it is costing       1257006382570094540
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25700638257009454
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203392434948409035
+
+amountIn:  1.2570063825700946
+amountOut: 1.203392434948409
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053613947621685476  │
+│   WETH Gained/Lost   │  -0.053613947621685476  │
+│  Total Gained/Lost   │  -0.07761394762168547   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293620
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.10055
+SUSHISWAP | LINK/WETH    | 163.00089
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7164.1396
+WETH: 43.95153597360293907
+
+reserves[0]:    7164139643495274919650
+input:          71641396434952749197 string
+The losses using 71.641396434952749197 LINK in getAmountsIn are -0.00183480297422736 WETH
+
+It should only require  440327764900862662
+But it is costing       442162567875090022
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.442162567875090022
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.433871118604336071
+
+amountIn:  0.44216256787509
+amountOut: 0.4338711186043361
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008291449270753926  │
+│   WETH Gained/Lost   │  -0.008291449270753926  │
+│  Total Gained/Lost   │  -0.03229144927075392   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293625
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.33977
+SUSHISWAP | LINK/WETH    | 163.33998
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293798
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.51828
+SUSHISWAP | LINK/WETH    | 163.65368
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19897.6066
+WETH: 121.684292989979052419
+
+reserves[0]:    19897606635357106708619
+input:          198976066353571067086 string
+The losses using 198.976066353571067086 LINK in getAmountsIn are -0.03603940411068036 WETH
+
+It should only require  1218221293828186673
+But it is costing       1254260697938867030
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25426069793886703
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.201216274849838265
+
+amountIn:  1.254260697938867
+amountOut: 1.2012162748498383
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05304442308902879   │
+│   WETH Gained/Lost   │  -0.05304442308902879   │
+│  Total Gained/Lost   │  -0.07704442308902879   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49293799
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.81932
+SUSHISWAP | LINK/WETH    | 163.65368
+
+Percentage Difference: 0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7178.4924
+WETH: 43.863921950547444779
+
+reserves[0]:    7178492412577904850205
+input:          71784924125779048502 string
+The losses using 71.784924125779048502 LINK in getAmountsIn are 0.000105758439573262 WETH
+
+It should only require  441209925640991570
+But it is costing       441104167201418308
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.441104167201418308
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.433006229736485266
+
+amountIn:  0.4411041672014183
+amountOut: 0.4330062297364853
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008097937464933036  │
+│   WETH Gained/Lost   │  -0.008097937464933036  │
+│  Total Gained/Lost   │  -0.03209793746493303   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294001
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.69910
+SUSHISWAP | LINK/WETH    | 163.65368
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294022
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.62911
+SUSHISWAP | LINK/WETH    | 163.65368
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294050
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.56964
+SUSHISWAP | LINK/WETH    | 163.65368
+
+Percentage Difference: -0.05%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19900.7815
+WETH: 121.665494932139135353
+
+reserves[0]:    19900781492509763096502
+input:          199007814925097630965 string
+The losses using 199.007814925097630965 LINK in getAmountsIn are -0.03605086089290542 WETH
+
+It should only require  1218415672914028889
+But it is costing       1254466533806934308
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.254466533806934308
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.201030708311560917
+
+amountIn:  1.2544665338069343
+amountOut: 1.201030708311561
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05343582549537329   │
+│   WETH Gained/Lost   │  -0.05343582549537329   │
+│  Total Gained/Lost   │  -0.07743582549537328   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294052
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.41976
+SUSHISWAP | LINK/WETH    | 163.65368
+
+Percentage Difference: -0.14%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19891.6751
+WETH: 121.72136085213913541
+
+reserves[0]:    19891675106754234365142
+input:          198916751067542343651 string
+The losses using 198.916751067542343651 LINK in getAmountsIn are -0.036018004627615764 WETH
+
+It should only require  1217858138872849987
+But it is costing       1253876143500465749
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.253876143500465749
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.201582193229330752
+
+amountIn:  1.2538761435004657
+amountOut: 1.2015821932293307
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05229395027113504   │
+│   WETH Gained/Lost   │  -0.05229395027113504   │
+│  Total Gained/Lost   │  -0.07629395027113503   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49294053
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.41976
+SUSHISWAP | LINK/WETH    | 163.54510
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19891.6751
+WETH: 121.72136085213913541
+
+reserves[0]:    19891675106754234365142
+input:          198916751067542343651 string
+The losses using 198.916751067542343651 LINK in getAmountsIn are -0.03686233153424736 WETH
+
+It should only require  1217858138872849987
+But it is costing       1254720470407097350
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25472047040709735
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.201582193229330752
+
+amountIn:  1.2547204704070973
+amountOut: 1.2015821932293307
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053138277177766646  │
+│   WETH Gained/Lost   │  -0.053138277177766646  │
+│  Total Gained/Lost   │  -0.07713827717776664   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49294054
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.41976
+SUSHISWAP | LINK/WETH    | 163.29593
+
+Percentage Difference: 0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7170.6537
+WETH: 43.912016827560939197
+
+reserves[0]:    7170653695966400791987
+input:          71706536959664007920 string
+The losses using 71.70653695966400792 LINK in getAmountsIn are -0.000971893026990062 WETH
+
+It should only require  440728136516687056
+But it is costing       441700029543677118
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.441700029543677118
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.433481002179057361
+
+amountIn:  0.4417000295436771
+amountOut: 0.4334810021790574
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008219027364619713  │
+│   WETH Gained/Lost   │  -0.008219027364619713  │
+│  Total Gained/Lost   │  -0.03221902736461971   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294080
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.27010
+SUSHISWAP | LINK/WETH    | 163.29593
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294371
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.20085
+SUSHISWAP | LINK/WETH    | 163.29593
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19878.3677
+WETH: 121.803091698036041163
+
+reserves[0]:    19878367655546232212902
+input:          198783676555462322129 string
+The losses using 198.783676555462322129 LINK in getAmountsIn are -0.0387542443562068 WETH
+
+It should only require  1217043396641522481
+But it is costing       1255797640997729283
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.255797640997729283
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.202389005841182738
+
+amountIn:  1.2557976409977294
+amountOut: 1.2023890058411828
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05340863515654659   │
+│   WETH Gained/Lost   │  -0.05340863515654659   │
+│  Total Gained/Lost   │  -0.07740863515654658   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49294372
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.20085
+SUSHISWAP | LINK/WETH    | 163.18924
+
+Percentage Difference: 0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294376
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.02175
+SUSHISWAP | LINK/WETH    | 163.18924
+
+Percentage Difference: -0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19867.4741
+WETH: 121.870078788036036663
+
+reserves[0]:    19867474075895051896168
+input:          198674740758950518962 string
+The losses using 198.674740758950518962 LINK in getAmountsIn are -0.03954560819046663 WETH
+
+It should only require  1216376442522854775
+But it is costing       1255922050713321404
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.255922050713321404
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.203050274282126484
+
+amountIn:  1.2559220507133213
+amountOut: 1.2030502742821265
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.052871776431194784  │
+│   WETH Gained/Lost   │  -0.052871776431194784  │
+│  Total Gained/Lost   │  -0.07687177643119478   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49294381
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 163.02175
+SUSHISWAP | LINK/WETH    | 163.08374
+
+Percentage Difference: -0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49294438
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.89674
+SUSHISWAP | LINK/WETH    | 162.89665
+
+Percentage Difference: 0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295028
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.74588
+SUSHISWAP | LINK/WETH    | 162.89665
+
+Percentage Difference: -0.09%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19850.6817
+WETH: 121.973482897284189727
+
+reserves[0]:    19850681743703097900393
+input:          198506817437030979004 string
+The losses using 198.506817437030979004 LINK in getAmountsIn are -0.04176798603279862 WETH
+
+It should only require  1215348340147319610
+But it is costing       1257116326180118225
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.257116326180118225
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.204071036254466342
+
+amountIn:  1.2571163261801181
+amountOut: 1.2040710362544664
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05304528992565172   │
+│   WETH Gained/Lost   │  -0.05304528992565172   │
+│  Total Gained/Lost   │  -0.07704528992565171   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49295222
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.74588
+SUSHISWAP | LINK/WETH    | 162.71882
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295239
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.59014
+SUSHISWAP | LINK/WETH    | 162.71882
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19841.1959
+WETH: 122.031972587788430415
+
+reserves[0]:    19841195879542081076328
+input:          198411958795420810763 string
+The losses using 198.411958795420810763 LINK in getAmountsIn are -0.04312359450321453 WETH
+
+It should only require  1214767572725232871
+But it is costing       1257891167228447398
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.257891167228447398
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.204648421933572929
+
+amountIn:  1.2578911672284474
+amountOut: 1.204648421933573
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053242745294874494  │
+│   WETH Gained/Lost   │  -0.053242745294874494  │
+│  Total Gained/Lost   │  -0.07724274529487449   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295243
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.29125
+SUSHISWAP | LINK/WETH    | 162.71882
+
+Percentage Difference: -0.26%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19822.9774
+WETH: 122.14446453206300208
+
+reserves[0]:    19822977412303830528844
+input:          198229774123038305288 string
+The losses using 198.229774123038305288 LINK in getAmountsIn are -0.043051100403142605 WETH
+
+It should only require  1213652155924746419
+But it is costing       1256703256327889021
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.256703256327889021
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205758895199528828
+
+amountIn:  1.256703256327889
+amountOut: 1.2057588951995288
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.050944361128360205  │
+│   WETH Gained/Lost   │  -0.050944361128360205  │
+│  Total Gained/Lost   │   -0.0749443611283602   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49295244
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.29125
+SUSHISWAP | LINK/WETH    | 162.35007
+
+Percentage Difference: -0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295249
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.25624
+SUSHISWAP | LINK/WETH    | 162.35007
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19820.8424
+WETH: 122.157661150582422727
+
+reserves[0]:    19820842371700677300412
+input:          198208423717006773004 string
+The losses using 198.208423717006773004 LINK in getAmountsIn are -0.04593734637517996 WETH
+
+It should only require  1213521439101682520
+But it is costing       1259458785476862481
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.259458785476862481
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205889166679512019
+
+amountIn:  1.2594587854768624
+amountOut: 1.205889166679512
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05356961879735045   │
+│   WETH Gained/Lost   │  -0.05356961879735045   │
+│  Total Gained/Lost   │  -0.07756961879735044   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295458
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.06550
+SUSHISWAP | LINK/WETH    | 162.35007
+
+Percentage Difference: -0.18%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19809.2062
+WETH: 122.229633929205201823
+
+reserves[0]:    19809206208819589794528
+input:          198092062088195897945 string
+The losses using 198.092062088195897945 LINK in getAmountsIn are -0.04588930918004878 WETH
+
+It should only require  1212809020685740731
+But it is costing       1258698329865789510
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25869832986578951
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.206599651746265594
+
+amountIn:  1.2586983298657894
+amountOut: 1.2065996517462656
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.052098678119523845  │
+│   WETH Gained/Lost   │  -0.052098678119523845  │
+│  Total Gained/Lost   │  -0.07609867811952384   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49295462
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.06550
+SUSHISWAP | LINK/WETH    | 162.09823
+
+Percentage Difference: -0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295514
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.93317
+SUSHISWAP | LINK/WETH    | 162.09823
+
+Percentage Difference: -0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19801.1297
+WETH: 122.279638880423859079
+
+reserves[0]:    19801129738070946027192
+input:          198011297380709460272 string
+The losses using 198.011297380709460272 LINK in getAmountsIn are -0.04783854229084028 WETH
+
+It should only require  1212314542690206585
+But it is costing       1260153084981046862
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.260153084981046862
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.2070932796398169
+
+amountIn:  1.260153084981047
+amountOut: 1.2070932796398168
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053059805341230115  │
+│   WETH Gained/Lost   │  -0.053059805341230115  │
+│  Total Gained/Lost   │  -0.07705980534123011   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49295517
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.93317
+SUSHISWAP | LINK/WETH    | 161.92785
+
+Percentage Difference: 0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49295525
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.72386
+SUSHISWAP | LINK/WETH    | 161.92785
+
+Percentage Difference: -0.13%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19788.3477
+WETH: 122.358861785115560375
+
+reserves[0]:    19788347664749352668440
+input:          197883476647493526684 string
+The losses using 197.883476647493526684 LINK in getAmountsIn are -0.0491284001675559 WETH
+
+It should only require  1211531966464583118
+But it is costing       1260660366632139017
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.260660366632139017
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207875334908563756
+
+amountIn:  1.260660366632139
+amountOut: 1.2078753349085638
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05278503172357518   │
+│   WETH Gained/Lost   │  -0.05278503172357518   │
+│  Total Gained/Lost   │  -0.07678503172357518   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49295526
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.72386
+SUSHISWAP | LINK/WETH    | 161.74409
+
+Percentage Difference: -0.01%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296254
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.84226
+SUSHISWAP | LINK/WETH    | 161.74409
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7136.5512
+WETH: 44.122486074822713523
+
+reserves[0]:    7136551201573037515458
+input:          71365512015730375155 string
+The losses using 71.365512015730375155 LINK in getAmountsIn are -0.005252228871792888 WETH
+
+It should only require  438632103234113066
+But it is costing       443884332105905954
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443884332105905954
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435558666263336984
+
+amountIn:  0.44388433210590594
+amountOut: 0.435558666263337
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008325665842568941  │
+│   WETH Gained/Lost   │  -0.008325665842568941  │
+│  Total Gained/Lost   │  -0.032325665842568935  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49296272
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.84226
+SUSHISWAP | LINK/WETH    | 161.84446
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296273
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.99029
+SUSHISWAP | LINK/WETH    | 162.09079
+
+Percentage Difference: -0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19804.6651
+WETH: 122.25835051349666326
+
+reserves[0]:    19804665061533642880277
+input:          198046650615336428803 string
+The losses using 198.046650615336428803 LINK in getAmountsIn are -0.0479120545045935 WETH
+
+It should only require  1212530991150654824
+But it is costing       1260443045655248323
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.260443045655248323
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.20688312981530316
+
+amountIn:  1.2604430456552482
+amountOut: 1.206883129815303
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05355991583994513   │
+│   WETH Gained/Lost   │  -0.05355991583994513   │
+│  Total Gained/Lost   │  -0.07755991583994512   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296299
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.04966
+SUSHISWAP | LINK/WETH    | 162.09079
+
+Percentage Difference: -0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296305
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.18257
+SUSHISWAP | LINK/WETH    | 162.09079
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7144.2073
+WETH: 44.075343723026373088
+
+reserves[0]:    7144207327213040308644
+input:          71442073272130403086 string
+The losses using 71.442073272130403086 LINK in getAmountsIn are -0.00432547254472278 WETH
+
+It should only require  439102669814138279
+But it is costing       443428142358861059
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443428142358861059
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435093296749975682
+
+amountIn:  0.4434281423588611
+amountOut: 0.43509329674997566
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008334845608885422  │
+│   WETH Gained/Lost   │  -0.008334845608885422  │
+│  Total Gained/Lost   │  -0.032334845608885415  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49296391
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.18257
+SUSHISWAP | LINK/WETH    | 162.18595
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296417
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.25547
+SUSHISWAP | LINK/WETH    | 162.36168
+
+Percentage Difference: -0.07%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19820.8936
+WETH: 122.158550542440725124
+
+reserves[0]:    19820893592945948876016
+input:          198208935929459488760 string
+The losses using 198.20893592945948876 LINK in getAmountsIn are -0.04584603254246255 WETH
+
+It should only require  1213524575097525123
+But it is costing       1259370607639987675
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.259370607639987675
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205897946382698525
+
+amountIn:  1.2593706076399878
+amountOut: 1.2058979463826984
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05347266125728933   │
+│   WETH Gained/Lost   │  -0.05347266125728933   │
+│  Total Gained/Lost   │  -0.07747266125728933   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296418
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.43375
+SUSHISWAP | LINK/WETH    | 162.36168
+
+Percentage Difference: 0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296474
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.58268
+SUSHISWAP | LINK/WETH    | 162.53656
+
+Percentage Difference: 0.03%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296949
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.47245
+SUSHISWAP | LINK/WETH    | 162.53656
+
+Percentage Difference: -0.04%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296951
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.37449
+SUSHISWAP | LINK/WETH    | 162.53656
+
+Percentage Difference: -0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19828.2110
+WETH: 122.114073599768160473
+
+reserves[0]:    19828211002098178499475
+input:          198282110020981784995 string
+The losses using 198.282110020981784995 LINK in getAmountsIn are -0.04450131371477829 WETH
+
+It should only require  1213972579915806094
+But it is costing       1258473893630584390
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.25847389363058439
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205458888669652128
+
+amountIn:  1.2584738936305844
+amountOut: 1.2054588886696522
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053015004960932144  │
+│   WETH Gained/Lost   │  -0.053015004960932144  │
+│  Total Gained/Lost   │  -0.07701500496093214   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49296957
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.37449
+SUSHISWAP | LINK/WETH    | 162.37104
+
+Percentage Difference: 0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296965
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.24889
+SUSHISWAP | LINK/WETH    | 162.37104
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19820.5518
+WETH: 122.161403748510562145
+
+reserves[0]:    19820551808455025164082
+input:          198205518084550251641 string
+The losses using 198.205518084550251641 LINK in getAmountsIn are -0.04577091946843016 WETH
+
+It should only require  1213503649508213109
+But it is costing       1259274568976643275
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.259274568976643275
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.205926112035654825
+
+amountIn:  1.2592745689766434
+amountOut: 1.2059261120356548
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05334845694098855   │
+│   WETH Gained/Lost   │  -0.05334845694098855   │
+│  Total Gained/Lost   │  -0.07734845694098855   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49296973
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.24889
+SUSHISWAP | LINK/WETH    | 162.20931
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296979
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.02432
+SUSHISWAP | LINK/WETH    | 162.20931
+
+Percentage Difference: -0.11%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19806.8507
+WETH: 122.246161194387482273
+
+reserves[0]:    19806850740081567466076
+input:          198068507400815674661 string
+The losses using 198.068507400815674661 LINK in getAmountsIn are -0.04698700949851242 WETH
+
+It should only require  1212664808257271748
+But it is costing       1259651817755784171
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.259651817755784171
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.206762801972378583
+
+amountIn:  1.2596518177557843
+amountOut: 1.2067628019723786
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05288901578340566   │
+│   WETH Gained/Lost   │  -0.05288901578340566   │
+│  Total Gained/Lost   │  -0.07688901578340565   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49296982
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.02432
+SUSHISWAP | LINK/WETH    | 161.92221
+
+Percentage Difference: 0.06%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7140.5262
+WETH: 44.098498219964114681
+
+reserves[0]:    7140526227810459044793
+input:          71405262278104590448 string
+The losses using 71.405262278104590448 LINK in getAmountsIn are -0.004756082818192202 WETH
+
+It should only require  438876419300751342
+But it is costing       443632502118943544
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443632502118943544
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435321868226820819
+
+amountIn:  0.44363250211894356
+amountOut: 0.43532186822682084
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00831063389212272   │
+│   WETH Gained/Lost   │  -0.00831063389212272   │
+│  Total Gained/Lost   │  -0.032310633892122714  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49296985
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 161.92221
+
+Percentage Difference: -0.00%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297116
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 162.42213
+
+Percentage Difference: -0.31%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19800.3352
+WETH: 122.286508569864828409
+
+reserves[0]:    19800335239897038822551
+input:          198003352398970388226 string
+The losses using 198.003352398970388226 LINK in getAmountsIn are -0.04528557449991077 WETH
+
+It should only require  1212265899925722464
+But it is costing       1257551474425633234
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.257551474425633234
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207161094331071555
+
+amountIn:  1.2575514744256333
+amountOut: 1.2071610943310715
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05039038009456176   │
+│   WETH Gained/Lost   │  -0.05039038009456176   │
+│  Total Gained/Lost   │  -0.07439038009456175   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297242
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 162.63993
+
+Percentage Difference: -0.44%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19800.3352
+WETH: 122.286508569864828409
+
+reserves[0]:    19800335239897038822551
+input:          198003352398970388226 string
+The losses using 198.003352398970388226 LINK in getAmountsIn are -0.04357674756801086 WETH
+
+It should only require  1212265899925722464
+But it is costing       1255842647493733324
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.255842647493733324
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207161094331071555
+
+amountIn:  1.2558426474937334
+amountOut: 1.2071610943310715
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.04868155316266187   │
+│   WETH Gained/Lost   │  -0.04868155316266187   │
+│  Total Gained/Lost   │  -0.07268155316266187   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297244
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 162.30546
+
+Percentage Difference: -0.24%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19800.3352
+WETH: 122.286508569864828409
+
+reserves[0]:    19800335239897038822551
+input:          198003352398970388226 string
+The losses using 198.003352398970388226 LINK in getAmountsIn are -0.0462015931141483 WETH
+
+It should only require  1212265899925722464
+But it is costing       1258467493039870764
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.258467493039870764
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207161094331071555
+
+amountIn:  1.2584674930398707
+amountOut: 1.2071610943310715
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05130639870879916   │
+│   WETH Gained/Lost   │  -0.05130639870879916   │
+│  Total Gained/Lost   │  -0.07530639870879915   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297359
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 162.70900
+
+Percentage Difference: -0.49%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19800.3352
+WETH: 122.286508569864828409
+
+reserves[0]:    19800335239897038822551
+input:          198003352398970388226 string
+The losses using 198.003352398970388226 LINK in getAmountsIn are -0.043035325162153804 WETH
+
+It should only require  1212265899925722464
+But it is costing       1255301225087876268
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.255301225087876268
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207161094331071555
+
+amountIn:  1.2553012250878763
+amountOut: 1.2071610943310715
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.04814013075680479   │
+│   WETH Gained/Lost   │  -0.04814013075680479   │
+│  Total Gained/Lost   │  -0.07214013075680478   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297440
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 161.36154
+
+Percentage Difference: 0.34%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7128.6394
+WETH: 44.178057128901938937
+
+reserves[0]:    7128639414880932139520
+input:          71286394148809321395 string
+The losses using 71.286394148809321395 LINK in getAmountsIn are -0.005037986926023493 WETH
+
+It should only require  438145823021293615
+But it is costing       443183809947317108
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443183809947317108
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.436107240388479193
+
+amountIn:  0.4431838099473171
+amountOut: 0.4361072403884792
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.007076569558837897  │
+│   WETH Gained/Lost   │  -0.007076569558837897  │
+│  Total Gained/Lost   │  -0.031076569558837894  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297443
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 161.54231
+
+Percentage Difference: 0.23%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7132.6372
+WETH: 44.15336963821399686
+
+reserves[0]:    7132637247298625280512
+input:          71326372472986252805 string
+The losses using 71.326372472986252805 LINK in getAmountsIn are -0.005041710852907055 WETH
+
+It should only require  438391540818618987
+But it is costing       443433251671526042
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443433251671526042
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.435863535840662147
+
+amountIn:  0.44343325167152603
+amountOut: 0.4358635358406621
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.00756971583086391   │
+│   WETH Gained/Lost   │  -0.00756971583086391   │
+│  Total Gained/Lost   │  -0.031569715830863904  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49297633
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91758
+SUSHISWAP | LINK/WETH    | 161.75582
+
+Percentage Difference: 0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7137.3564
+WETH: 44.124263108758569644
+
+reserves[0]:    7137356442464504977920
+input:          71373564424645049779 string
+The losses using 71.373564424645049779 LINK in getAmountsIn are -0.005046108020442481 WETH
+
+It should only require  438681595558326565
+But it is costing       443727703578769046
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443727703578769046
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.43557620839660875
+
+amountIn:  0.44372770357876906
+amountOut: 0.43557620839660877
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008151495182160295  │
+│   WETH Gained/Lost   │  -0.008151495182160295  │
+│  Total Gained/Lost   │  -0.03215149518216029   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49298544
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.58152
+SUSHISWAP | LINK/WETH    | 161.75582
+
+Percentage Difference: -0.11%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19779.8079
+WETH: 122.413798515616380409
+
+reserves[0]:    19779807894801977842097
+input:          197798078948019778421 string
+The losses using 197.798078948019778421 LINK in getAmountsIn are -0.05044814661229425 WETH
+
+It should only require  1211009123200820943
+But it is costing       1261457269813115195
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.261457269813115195
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.208417647257537662
+
+amountIn:  1.2614572698131152
+amountOut: 1.2084176472575376
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05303962255557759   │
+│   WETH Gained/Lost   │  -0.05303962255557759   │
+│  Total Gained/Lost   │  -0.07703962255557759   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49298886
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.61910
+SUSHISWAP | LINK/WETH    | 161.75582
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19782.1126
+WETH: 122.399597148765826509
+
+reserves[0]:    19782112594145422780736
+input:          197821125941454227807 string
+The losses using 197.821125941454227807 LINK in getAmountsIn are -0.0504582146509926 WETH
+
+It should only require  1211150227297786426
+But it is costing       1261608441948779029
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.261608441948779029
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.208277457323678218
+
+amountIn:  1.261608441948779
+amountOut: 1.2082774573236783
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.053330984625100664  │
+│   WETH Gained/Lost   │  -0.053330984625100664  │
+│  Total Gained/Lost   │  -0.07733098462510066   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49298901
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.79250
+SUSHISWAP | LINK/WETH    | 161.75582
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49298965
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91092
+SUSHISWAP | LINK/WETH    | 161.75582
+
+Percentage Difference: 0.10%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Uniswap
+Sell     -->     Sushiswap
+
+Determining Profitability...
+
+Reserves on 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+LINK: 7137.3564
+WETH: 44.124263108758569644
+
+reserves[0]:    7137356442464504977920
+input:          71373564424645049779 string
+The losses using 71.373564424645049779 LINK in getAmountsIn are -0.005064374663141118 WETH
+
+It should only require  438681595558326565
+But it is costing       443745970221467683
+Estimated amount of WETH needed to buy enough LINK on Quickswap         | 0.443745970221467683
+Estimated amount of WETH returned after swapping LINK on Sushiswap      | 0.43557620839660875
+
+amountIn:  0.44374597022146767
+amountOut: 0.43557620839660877
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.008169761824858901  │
+│   WETH Gained/Lost   │  -0.008169761824858901  │
+│  Total Gained/Lost   │  -0.032169761824858895  │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Sushiswap, Checking Price...
+
+Current Block: 49299024
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 161.91092
+SUSHISWAP | LINK/WETH    | 162.04082
+
+Percentage Difference: -0.08%
+
+Determining Direction...
+
+Potential Arbitrage Direction:
+
+Buy      -->     Sushiswap
+Sell     -->     Uniswap
+
+Determining Profitability...
+
+Reserves on 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+LINK: 19799.9909
+WETH: 122.289408299251899036
+
+reserves[0]:    19799990909759021174245
+input:          197999909097590211742 string
+The losses using 197.999909097590211742 LINK in getAmountsIn are -0.048283662650784556 WETH
+
+It should only require  1212244818480404587
+But it is costing       1260528481131189141
+Estimated amount of WETH needed to buy enough LINK on Sushiswap         | 1.260528481131189141
+Estimated amount of WETH returned after swapping LINK on Quickswap      | 1.207189719242691796
+
+amountIn:  1.2605284811311892
+amountOut: 1.2071897192426917
+┌──────────────────────┬─────────────────────────┐
+│       (index)        │         Values          │
+├──────────────────────┼─────────────────────────┤
+│ MATIC Balance Before │ '20.028115497337567108' │
+│ MATIC Balance After  │   20.004115497337565    │
+│  MATIC Spent (gas)   │  0.023999999999999997   │
+│          -           │                         │
+│ WETH Balance BEFORE  │            0            │
+│  WETH Balance AFTER  │  -0.05333876188849751   │
+│   WETH Gained/Lost   │  -0.05333876188849751   │
+│  Total Gained/Lost   │   -0.0773387618884975   │
+└──────────────────────┴─────────────────────────┘
+
+No Arbitrage Currently Available
+
+-----------------------------------------
+
+Swap Initiated on Uniswap, Checking Price...
+
+Current Block: 49299096
+-----------------------------------------
+QUICKSWAP   | LINK/WETH  | 162.07884
+SUSHISWAP | LINK/WETH    | 162.04082
+
+Percentage Difference: 0.02%
+
+Determining Direction...
+
+No Arbitrage Currently Available
+
+-----------------------------------------
