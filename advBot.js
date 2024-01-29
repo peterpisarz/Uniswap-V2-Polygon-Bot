@@ -5,7 +5,7 @@ require("dotenv").config();
 const Big = require('big.js')
 const ethers = require("ethers")
 const config = require('./config.json')
-const { getTokenAndContract, getPairContract, getReserves, calculatePrice, calculatePriceInv, entropy, simulate } = require('./helpers/helpers')
+const { getTokenAndContract, getPairContract, _getReserves, calculatePrice, calculatePriceInv, entropy, simulate } = require('./helpers/helpers')
 const { provider, uFactory, uRouter, sFactory, sRouter, arbitrage } = require('./helpers/initialization')
 
 // -- .ENV VALUES HERE -- //

@@ -1,3 +1,24 @@
+# Uniswap V2 Arbitrage Bot on Polygon Chain
+
+## Overview
+
+### History
+This is a bot I modified to run on Polygon. Originally it was supplied to me to work on the Ethereum mainnet, but due to high gas fees it was never profitable. For this reason I switched the chain to Polygon.
+
+### Modifications
+In order to switch chains the following actions needed to take place.
+- Find token addresses on the polygon chain and add them to the .env
+- Get a new Alchemy API key for Polygon and update hardhat config
+- Find Uniswap Factory and Router exchanges on polygon. Same with Sushiswap
+- Update the initialization file with the new Alchemy wss link
+- Find a new holder to "impersonate" if using the manipulate script during testing
+
+### Further Improvements
+The original bot provided did not have a robust method for utilizing getAmountsIn. It took the reserve amount one of the exchanges and just used that. Often this resulted in a sub-overflow because there would not be enough of the reserve token on the second exchange. After reviewing the actual equations that govern swaps (swapExactTokenForToken) I developed a for loop which would iterate different amounts in which produce the highest profit. This is important when trying to find profits under Uniswaps constant product formula for V2.
+
+### Research
+The constant product formula of uniswap makes arbitrage opportunities hard to come by. Too low of a swap amount will be destroyed by the gas fee. Too high of a swap amount will see a diminishing return based on the size of the reserve pools and other factors.
+
 # Trading Bot Demo
 
 ## Technology Stack & Tools
